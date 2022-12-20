@@ -4,4 +4,4 @@ Can be powered by a [DIY MORE 16340 battery shield](https://www.diymore.cc/colle
 But the battery shield needs to be separated from the relay shield by a set of headers.
 
 **DO NOT FORGET**
-Connect to serial port at some point, read out MAC address to insert into pedal code.
+Connect to serial port at some point, read out MAC address to insert into [pedal code](https://github.com/Bazmundi/openpedal2).
