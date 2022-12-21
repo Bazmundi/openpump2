@@ -7,3 +7,7 @@ But the battery shield needs to be separated from the relay shield by a set of h
 
 **DO NOT FORGET**
 Connect to serial port at some point, read out MAC address to insert into [pedal code](https://github.com/Bazmundi/openpedal2).
+
+## The duo
+
+![Alt text](/pics/duo.jpg "The team of two")
